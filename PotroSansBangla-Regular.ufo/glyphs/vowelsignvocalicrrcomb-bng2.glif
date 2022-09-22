@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelsignvocalicrrcomb-bng2" format="2">
+  <advance width="2"/>
+  <unicode hex="09C4"/>
+  <outline>
+    <contour>
+      <point x="29" y="-569" type="line"/>
+      <point x="29" y="-569" type="line"/>
+      <point x="104" y="-464" type="line"/>
+      <point x="-293" y="-180" type="line"/>
+      <point x="-110" y="-25" type="line"/>
+      <point x="-194" y="73" type="line"/>
+      <point x="-503" y="-188" type="line"/>
+    </contour>
+    <contour>
+      <point x="-75" y="-831" type="line"/>
+      <point x="-75" y="-831" type="line"/>
+      <point x="0" y="-726" type="line"/>
+      <point x="-397" y="-442" type="line"/>
+      <point x="-214" y="-287" type="line"/>
+      <point x="-298" y="-189" type="line"/>
+      <point x="-607" y="-450" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="da_signviramacomb-bng2.half" format="2">
+  <advance width="769"/>
+  <outline>
+    <contour>
+      <point x="555" y="357" type="curve"/>
+      <point x="555" y="357" type="line"/>
+      <point x="677" y="400" type="line"/>
+      <point x="647" y="488"/>
+      <point x="615" y="594"/>
+      <point x="627" y="754" type="curve"/>
+      <point x="634" y="839"/>
+      <point x="652" y="923"/>
+      <point x="682" y="1003" type="curve"/>
+      <point x="693" y="1033" type="line"/>
+      <point x="625" y="1142" type="line"/>
+      <point x="580" y="1131" type="line"/>
+      <point x="472" y="1103"/>
+      <point x="373" y="1057"/>
+      <point x="284" y="991" type="curve"/>
+      <point x="244" y="962"/>
+      <point x="210" y="933"/>
+      <point x="181" y="905" type="curve"/>
+      <point x="181" y="1377" type="line"/>
+      <point x="52" y="1377" type="line"/>
+      <point x="52" y="707" type="line"/>
+      <point x="154" y="662" type="line"/>
+      <point x="184" y="708" type="line"/>
+      <point x="212" y="752"/>
+      <point x="266" y="818"/>
+      <point x="361" y="887" type="curve"/>
+      <point x="416" y="928"/>
+      <point x="476" y="960"/>
+      <point x="539" y="983" type="curve"/>
+      <point x="518" y="912"/>
+      <point x="504" y="838"/>
+      <point x="498" y="764" type="curve"/>
+      <point x="485" y="588"/>
+      <point x="518" y="465"/>
+    </contour>
+    <contour>
+      <point x="809" y="1276" type="line"/>
+      <point x="809" y="1276" type="line"/>
+      <point x="809" y="1405" type="line"/>
+      <point x="-24" y="1405" type="line"/>
+      <point x="-24" y="1276" type="line"/>
+    </contour>
+  </outline>
+</glyph>

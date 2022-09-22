@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ralowerdiagonal-bng2" format="2">
+  <advance width="1163"/>
+  <unicode hex="09F1"/>
+  <anchor x="1074" y="15" name="Anchor_1"/>
+  <anchor x="640" y="0" name="Anchor_3"/>
+  <anchor x="708" y="1463" name="Anchor_up"/>
+</glyph>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pa_signviramacomb-bng2.half" format="2">
+  <advance width="941"/>
+  <outline>
+    <contour>
+      <point x="332" y="716" type="line"/>
+      <point x="332" y="716" type="line"/>
+      <point x="714" y="1118" type="line"/>
+      <point x="621" y="1207" type="line"/>
+      <point x="238" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="836" type="line"/>
+      <point x="418" y="836" type="line"/>
+      <point x="419" y="859"/>
+      <point x="422" y="977"/>
+      <point x="356" y="1063" type="curve"/>
+      <point x="331" y="1095"/>
+      <point x="292" y="1130"/>
+      <point x="233" y="1147" type="curve"/>
+      <point x="281" y="1192"/>
+      <point x="348" y="1236"/>
+      <point x="420" y="1233" type="curve"/>
+      <point x="529" y="1228"/>
+      <point x="669" y="1100"/>
+      <point x="704" y="902" type="curve"/>
+      <point x="831" y="925" type="line"/>
+      <point x="789" y="1161"/>
+      <point x="611" y="1353"/>
+      <point x="426" y="1362" type="curve"/>
+      <point x="216" y="1372"/>
+      <point x="69" y="1159"/>
+      <point x="53" y="1135" type="curve"/>
+      <point x="29" y="1099" type="line"/>
+      <point x="78" y="1027" type="line"/>
+      <point x="112" y="1027" type="line"/>
+      <point x="112" y="1027" type="line"/>
+      <point x="115" y="1027"/>
+      <point x="120" y="1027"/>
+      <point x="127" y="1028" type="curve"/>
+      <point x="167" y="1032"/>
+      <point x="218" y="1031"/>
+      <point x="253" y="985" type="curve"/>
+      <point x="293" y="933"/>
+      <point x="289" y="844"/>
+      <point x="289" y="843" type="curve"/>
+    </contour>
+    <contour>
+      <point x="832" y="360" type="line"/>
+      <point x="832" y="360" type="line"/>
+      <point x="832" y="1464" type="line"/>
+      <point x="703" y="1464" type="line"/>
+      <point x="703" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="968" y="1276" type="line"/>
+      <point x="968" y="1276" type="line"/>
+      <point x="968" y="1405" type="line"/>
+      <point x="772" y="1405" type="line"/>
+      <point x="772" y="1276" type="line"/>
+    </contour>
+  </outline>
+</glyph>

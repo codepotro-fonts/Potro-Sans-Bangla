@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nna-bng2" format="2">
+  <advance width="1034"/>
+  <unicode hex="09A3"/>
+  <anchor x="967" y="7" name="Anchor_1"/>
+  <anchor x="824" y="260" name="Anchor_3"/>
+  <anchor x="708" y="1463" name="Anchor_up"/>
+  <outline>
+    <contour>
+      <point x="440" y="583" type="curve"/>
+      <point x="440" y="583" type="line"/>
+      <point x="451" y="711" type="line"/>
+      <point x="333" y="722"/>
+      <point x="257" y="825"/>
+      <point x="258" y="975" type="curve"/>
+      <point x="258" y="1098"/>
+      <point x="345" y="1206"/>
+      <point x="453" y="1214" type="curve"/>
+      <point x="571" y="1223"/>
+      <point x="716" y="1108"/>
+      <point x="772" y="756" type="curve"/>
+      <point x="900" y="776" type="line"/>
+      <point x="829" y="1215"/>
+      <point x="618" y="1357"/>
+      <point x="443" y="1343" type="curve"/>
+      <point x="267" y="1329"/>
+      <point x="129" y="1167"/>
+      <point x="129" y="975" type="curve"/>
+      <point x="127" y="757"/>
+      <point x="252" y="599"/>
+    </contour>
+    <contour>
+      <point x="902" y="0" type="line"/>
+      <point x="902" y="0" type="line"/>
+      <point x="902" y="1510" type="line"/>
+      <point x="773" y="1510" type="line"/>
+      <point x="773" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1050" y="1276" type="line"/>
+      <point x="1050" y="1276" type="line"/>
+      <point x="1050" y="1405" type="line"/>
+      <point x="806" y="1405" type="line"/>
+      <point x="806" y="1276" type="line"/>
+    </contour>
+  </outline>
+</glyph>

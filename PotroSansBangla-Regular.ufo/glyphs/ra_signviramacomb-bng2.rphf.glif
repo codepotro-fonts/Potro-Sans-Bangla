@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ra_signviramacomb-bng2.rphf" format="2">
+  <advance width="2"/>
+  <anchor x="-170" y="1415" name="Anchor_1"/>
+  <anchor x="-223" y="1431" name="Anchor_up"/>
+  <outline>
+    <contour>
+      <point x="-426" y="1531" type="line"/>
+      <point x="-426" y="1531" type="line"/>
+      <point x="63" y="1867" type="line"/>
+      <point x="-10" y="1973" type="line"/>
+      <point x="-499" y="1638" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dda_signviramacomb_ba-bng2.blwf.blws" format="2">
+  <advance width="1182"/>
+  <anchor x="882" y="-139" name="Anchor_1"/>
+  <anchor x="708" y="1463" name="Anchor_up"/>
+  <outline>
+    <contour>
+      <point x="731" y="-160" type="curve"/>
+      <point x="731" y="-160" type="line"/>
+      <point x="837" y="-87" type="line"/>
+      <point x="793" y="-23"/>
+      <point x="738" y="30"/>
+      <point x="673" y="74" type="curve"/>
+      <point x="636" y="99"/>
+      <point x="596" y="120"/>
+      <point x="553" y="136" type="curve"/>
+      <point x="586" y="163"/>
+      <point x="620" y="187"/>
+      <point x="657" y="206" type="curve"/>
+      <point x="672" y="214" type="line"/>
+      <point x="614" y="329" type="line"/>
+      <point x="596" y="320" type="line"/>
+      <point x="523" y="281"/>
+      <point x="457" y="230"/>
+      <point x="399" y="167" type="curve"/>
+      <point x="374" y="140" type="line"/>
+      <point x="403" y="47" type="line"/>
+      <point x="438" y="38" type="line"/>
+      <point x="497" y="23"/>
+      <point x="552" y="-1"/>
+      <point x="602" y="-34" type="curve"/>
+      <point x="653" y="-68"/>
+      <point x="696" y="-111"/>
+    </contour>
+    <contour>
+      <point x="841" y="-178" type="line"/>
+      <point x="841" y="-178" type="line"/>
+      <point x="841" y="285" type="line"/>
+      <point x="711" y="285" type="line"/>
+      <point x="711" y="-178" type="line"/>
+    </contour>
+    <contour>
+      <point x="677" y="212" type="curve"/>
+      <point x="677" y="212" type="line"/>
+      <point x="837" y="212"/>
+      <point x="963" y="286"/>
+      <point x="1031" y="422" type="curve"/>
+      <point x="1112" y="586"/>
+      <point x="1096" y="820"/>
+      <point x="995" y="954" type="curve"/>
+      <point x="970" y="987" type="line"/>
+      <point x="875" y="967" type="line"/>
+      <point x="864" y="931" type="line"/>
+      <point x="864" y="930"/>
+      <point x="823" y="814"/>
+      <point x="736" y="790" type="curve"/>
+      <point x="720" y="786"/>
+      <point x="691" y="777"/>
+      <point x="662" y="794" type="curve"/>
+      <point x="655" y="798"/>
+      <point x="648" y="804"/>
+      <point x="642" y="810" type="curve"/>
+      <point x="625" y="829"/>
+      <point x="615" y="857"/>
+      <point x="615" y="888" type="curve"/>
+      <point x="615" y="1318" type="line"/>
+      <point x="486" y="1318" type="line"/>
+      <point x="486" y="888" type="line"/>
+      <point x="486" y="825"/>
+      <point x="507" y="766"/>
+      <point x="546" y="724" type="curve"/>
+      <point x="561" y="707"/>
+      <point x="579" y="693"/>
+      <point x="598" y="682" type="curve"/>
+      <point x="673" y="638"/>
+      <point x="747" y="659"/>
+      <point x="771" y="666" type="curve"/>
+      <point x="847" y="687"/>
+      <point x="900" y="739"/>
+      <point x="934" y="789" type="curve"/>
+      <point x="962" y="697"/>
+      <point x="962" y="574"/>
+      <point x="915" y="480" type="curve"/>
+      <point x="869" y="388"/>
+      <point x="789" y="341"/>
+      <point x="677" y="341" type="curve"/>
+      <point x="347" y="341"/>
+      <point x="258" y="748"/>
+      <point x="241" y="1090" type="curve"/>
+      <point x="240" y="1108" type="line"/>
+      <point x="111" y="1101" type="line"/>
+      <point x="112" y="1084" type="line"/>
+      <point x="150" y="325"/>
+      <point x="482" y="212"/>
+    </contour>
+    <contour>
+      <point x="1212" y="1276" type="line"/>
+      <point x="1212" y="1276" type="line"/>
+      <point x="1212" y="1405" type="line"/>
+      <point x="-16" y="1405" type="line"/>
+      <point x="-16" y="1276" type="line"/>
+    </contour>
+  </outline>
+</glyph>

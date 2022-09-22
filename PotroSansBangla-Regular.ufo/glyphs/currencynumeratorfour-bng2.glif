@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currencynumeratorfour-bng2" format="2">
+  <advance width="636"/>
+  <unicode hex="09F7"/>
+  <outline>
+    <contour>
+      <point x="432" y="2" type="line"/>
+      <point x="432" y="1223" type="line"/>
+      <point x="559" y="1223" type="line"/>
+      <point x="559" y="2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ya_signviramacomb-bng2.haln" format="2">
+  <advance width="1003"/>
+  <anchor x="905" y="-8" name="Anchor_1"/>
+  <anchor x="820" y="228" name="Anchor_3"/>
+  <outline>
+    <contour>
+      <point x="769" y="140" type="curve"/>
+      <point x="769" y="140" type="line"/>
+      <point x="865" y="226" type="line"/>
+      <point x="725" y="384"/>
+      <point x="411" y="578"/>
+      <point x="255" y="656" type="curve"/>
+      <point x="576" y="892" type="line"/>
+      <point x="576" y="963" type="line"/>
+      <point x="559" y="982" type="line"/>
+      <point x="555" y="987"/>
+      <point x="549" y="993"/>
+      <point x="543" y="1001" type="curve"/>
+      <point x="487" y="1066"/>
+      <point x="372" y="1200"/>
+      <point x="152" y="1304" type="curve"/>
+      <point x="97" y="1188" type="line"/>
+      <point x="269" y="1106"/>
+      <point x="369" y="1003"/>
+      <point x="424" y="940" type="curve"/>
+      <point x="71" y="682" type="line"/>
+      <point x="114" y="574" type="line"/>
+      <point x="144" y="565" type="line"/>
+      <point x="211" y="544"/>
+      <point x="613" y="316"/>
+    </contour>
+    <contour>
+      <point x="875" y="0" type="line"/>
+      <point x="875" y="0" type="line"/>
+      <point x="875" y="1335" type="line"/>
+      <point x="746" y="1335" type="line"/>
+      <point x="746" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1027" y="1276" type="line"/>
+      <point x="1027" y="1276" type="line"/>
+      <point x="1027" y="1405" type="line"/>
+      <point x="-21" y="1405" type="line"/>
+      <point x="-21" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="736" y="-356" type="line"/>
+      <point x="736" y="-356" type="line"/>
+      <point x="833" y="-271" type="line"/>
+      <point x="526" y="83" type="line"/>
+      <point x="428" y="-2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

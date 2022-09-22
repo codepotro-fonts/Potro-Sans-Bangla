@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="devanagaridoubledanda" format="2">
+  <advance width="1139"/>
+  <unicode hex="0965"/>
+  <outline>
+    <contour>
+      <point x="504" y="217" type="line"/>
+      <point x="504" y="1167" type="line"/>
+      <point x="627" y="1051" type="line"/>
+      <point x="627" y="98" type="line"/>
+    </contour>
+    <contour>
+      <point x="852" y="217" type="line"/>
+      <point x="852" y="1167" type="line"/>
+      <point x="975" y="1051" type="line"/>
+      <point x="975" y="98" type="line"/>
+    </contour>
+  </outline>
+</glyph>

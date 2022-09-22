@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelsigni-bng2" format="2">
+  <advance width="389"/>
+  <unicode hex="09BF"/>
+  <anchor x="913" y="1453" name="Anchor_1"/>
+  <anchor x="1346" y="1508" name="Anchor_Up_ex"/>
+  <outline>
+    <contour>
+      <point x="408" y="1276" type="line"/>
+      <point x="408" y="1276" type="line"/>
+      <point x="408" y="1405" type="line"/>
+      <point x="-24" y="1405" type="line"/>
+      <point x="-24" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="286" y="1402" type="line"/>
+      <point x="157" y="1402" type="line"/>
+      <point x="157" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="1308" type="line"/>
+      <point x="170" y="1308" type="line"/>
+      <point x="272" y="1387" type="line"/>
+      <point x="184" y="1502" type="line"/>
+      <point x="202" y="1572"/>
+      <point x="259" y="1682"/>
+      <point x="365" y="1748" type="curve"/>
+      <point x="509" y="1839"/>
+      <point x="755" y="1908"/>
+      <point x="1222" y="1462" type="curve"/>
+      <point x="1311" y="1555" type="line"/>
+      <point x="911" y="1937"/>
+      <point x="579" y="2036"/>
+      <point x="296" y="1858" type="curve"/>
+      <point x="149" y="1766"/>
+      <point x="66" y="1605"/>
+      <point x="51" y="1494" type="curve"/>
+      <point x="48" y="1467" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="signviramacomb-bng2" format="2">
+  <advance width="2"/>
+  <unicode hex="09CD"/>
+  <anchor x="0" y="0" name="Anchor_3"/>
+  <outline>
+    <contour>
+      <point x="-454" y="-464" type="line"/>
+      <point x="-454" y="-464" type="line"/>
+      <point x="-357" y="-379" type="line"/>
+      <point x="-664" y="-25" type="line"/>
+      <point x="-762" y="-110" type="line"/>
+    </contour>
+  </outline>
+</glyph>

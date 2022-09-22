@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelsignaa-bng2" format="2">
+  <advance width="506"/>
+  <unicode hex="09BE"/>
+  <outline>
+    <contour>
+      <point x="518" y="1276" type="line"/>
+      <point x="518" y="1276" type="line"/>
+      <point x="518" y="1405" type="line"/>
+      <point x="292" y="1405" type="line"/>
+      <point x="292" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="1509" type="line"/>
+      <point x="215" y="1509" type="line"/>
+      <point x="215" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="240" y="958" type="curve"/>
+      <point x="240" y="958" type="line"/>
+      <point x="341" y="999" type="line"/>
+      <point x="256" y="1304"/>
+      <point x="94" y="1377"/>
+      <point x="40" y="1401" type="curve"/>
+      <point x="31" y="1405" type="line"/>
+      <point x="-37" y="1405" type="line"/>
+      <point x="-37" y="1276" type="line"/>
+      <point x="12" y="1276" type="line"/>
+      <point x="84" y="1242"/>
+      <point x="181" y="1170"/>
+    </contour>
+  </outline>
+</glyph>

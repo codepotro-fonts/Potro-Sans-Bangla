@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zwj" format="2">
+  <advance width="0"/>
+  <unicode hex="200D"/>
+  <outline>
+    <contour>
+      <point x="2" y="1949" type="line"/>
+      <point x="543" y="1949" type="line"/>
+      <point x="543" y="1812" type="line"/>
+      <point x="142" y="1812" type="line"/>
+      <point x="142" y="-636" type="line"/>
+      <point x="2" y="-636" type="line"/>
+    </contour>
+  </outline>
+</glyph>

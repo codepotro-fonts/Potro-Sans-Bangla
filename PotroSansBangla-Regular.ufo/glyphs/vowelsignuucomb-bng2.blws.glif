@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelsignuucomb-bng2.blws" format="2">
+  <advance width="265"/>
+  <outline>
+    <contour>
+      <point x="274" y="1276" type="line"/>
+      <point x="274" y="1276" type="line"/>
+      <point x="274" y="1405" type="line"/>
+      <point x="-173" y="1405" type="line"/>
+      <point x="-173" y="1276" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="223" type="line"/>
+      <point x="185" y="223" type="line"/>
+      <point x="185" y="880" type="line"/>
+      <point x="132" y="933" type="line"/>
+      <point x="-146" y="863" type="line"/>
+      <point x="-115" y="738" type="line"/>
+      <point x="56" y="780" type="line"/>
+      <point x="56" y="223" type="line"/>
+    </contour>
+  </outline>
+</glyph>

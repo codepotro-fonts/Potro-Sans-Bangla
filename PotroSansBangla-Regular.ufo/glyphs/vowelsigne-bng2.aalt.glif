@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vowelsigne-bng2.aalt" format="2">
+  <advance width="699"/>
+  <outline>
+    <contour>
+      <point x="543" y="-9" type="curve"/>
+      <point x="543" y="-9" type="line"/>
+      <point x="594" y="-9"/>
+      <point x="645" y="1"/>
+      <point x="695" y="22" type="curve"/>
+      <point x="647" y="141" type="line"/>
+      <point x="596" y="121"/>
+      <point x="546" y="115"/>
+      <point x="499" y="125" type="curve"/>
+      <point x="386" y="147"/>
+      <point x="319" y="250"/>
+      <point x="297" y="284" type="curve"/>
+      <point x="158" y="503"/>
+      <point x="218" y="889"/>
+      <point x="427" y="1110" type="curve"/>
+      <point x="496" y="1184"/>
+      <point x="581" y="1239"/>
+      <point x="680" y="1276" type="curve"/>
+      <point x="766" y="1276" type="line"/>
+      <point x="766" y="1405" type="line"/>
+      <point x="690" y="1405" type="line"/>
+      <point x="681" y="1405" type="line"/>
+      <point x="675" y="1405"/>
+      <point x="670" y="1405"/>
+      <point x="665" y="1405" type="curve"/>
+      <point x="655" y="1404" type="line"/>
+      <point x="647" y="1401" type="line"/>
+      <point x="524" y="1358"/>
+      <point x="418" y="1290"/>
+      <point x="333" y="1199" type="curve"/>
+      <point x="83" y="934"/>
+      <point x="17" y="483"/>
+      <point x="189" y="215" type="curve"/>
+      <point x="218" y="169"/>
+      <point x="306" y="31"/>
+      <point x="474" y="-2" type="curve"/>
+      <point x="496" y="-7"/>
+      <point x="520" y="-9"/>
+    </contour>
+  </outline>
+</glyph>
