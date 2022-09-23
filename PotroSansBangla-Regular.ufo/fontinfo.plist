@@ -29,7 +29,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2022/09/22 14:54:23</string>
+  <string>2022/09/23 14:54:58</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -248,7 +248,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>59048</integer>
+  <integer>59179</integer>
   <key>xHeight</key>
   <integer>1276</integer>
 </dict>
