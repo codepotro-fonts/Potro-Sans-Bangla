@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tta_signviramacomb-bng2.half_uni099F.pres" format="2">
   <advance width="1125"/>
-  <anchor x="836" y="-177" name="Anchor_1"/>
+  <anchor x="703" y="-177" name="Anchor_1"/>
   <anchor x="975" y="-25" name="Anchor_3"/>
   <anchor x="708" y="1463" name="Anchor_up"/>
   <outline>
@@ -65,11 +65,11 @@
       <point x="476" y="147"/>
     </contour>
     <contour>
-      <point x="1143" y="1276" type="line"/>
-      <point x="1143" y="1276" type="line"/>
-      <point x="1143" y="1405" type="line"/>
-      <point x="-18" y="1405" type="line"/>
-      <point x="-18" y="1276" type="line"/>
+      <point x="1153" y="1276" type="line"/>
+      <point x="1153" y="1276" type="line"/>
+      <point x="1153" y="1405" type="line"/>
+      <point x="-28" y="1405" type="line"/>
+      <point x="-28" y="1276" type="line"/>
     </contour>
     <contour>
       <point x="985" y="1319" type="line"/>

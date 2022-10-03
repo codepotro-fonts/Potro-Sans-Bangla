@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ha-bng2" format="2">
-  <advance width="911"/>
+  <advance width="877"/>
   <unicode hex="09B9"/>
   <anchor x="616" y="15" name="Anchor_1"/>
   <anchor x="708" y="1463" name="Anchor_up"/>
@@ -64,9 +64,9 @@
       <point x="112" y="531" type="curve"/>
     </contour>
     <contour>
-      <point x="922" y="1275" type="line"/>
-      <point x="922" y="1275" type="line"/>
-      <point x="922" y="1405" type="line"/>
+      <point x="912" y="1275" type="line"/>
+      <point x="912" y="1275" type="line"/>
+      <point x="912" y="1405" type="line"/>
       <point x="-19" y="1405" type="line"/>
       <point x="-19" y="1275" type="line"/>
     </contour>

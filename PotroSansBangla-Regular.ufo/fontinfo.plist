@@ -29,7 +29,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2022/09/23 14:54:58</string>
+  <string>2022/09/30 15:42:38</string>
   <key>openTypeHeadFlags</key>
   <array>
     <integer>0</integer>
@@ -161,9 +161,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameUniqueID</key>
-  <string>Potro Sans Bangla:Version 1.100</string>
+  <string>Potro Sans Bangla; Version 0.905</string>
   <key>openTypeNameVersion</key>
-  <string>Potro Sans Bangla; Version 1.100</string>
+  <string>Potro Sans Bangla; Version 0.905</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -248,7 +248,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
   <key>versionMajor</key>
   <integer>0</integer>
   <key>versionMinor</key>
-  <integer>59179</integer>
+  <integer>59310</integer>
   <key>xHeight</key>
   <integer>1276</integer>
 </dict>

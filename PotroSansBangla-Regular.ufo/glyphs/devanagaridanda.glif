@@ -1,13 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="devanagaridanda" format="2">
-  <advance width="901"/>
+  <advance width="529"/>
   <unicode hex="0964"/>
   <outline>
     <contour>
-      <point x="614" y="217" type="line"/>
-      <point x="614" y="1167" type="line"/>
-      <point x="737" y="1065" type="line"/>
-      <point x="737" y="113" type="line"/>
+      <point x="422" y="75" type="line"/>
+      <point x="422" y="75" type="line"/>
+      <point x="422" y="1195" type="line"/>
+      <point x="293" y="1195" type="line"/>
+      <point x="293" y="75" type="line"/>
     </contour>
   </outline>
 </glyph>

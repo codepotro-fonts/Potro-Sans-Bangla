@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ba_signviramacomb-bng2.haln" format="2">
   <advance width="983"/>
-  <anchor x="851" y="7" name="Anchor_1"/>
-  <anchor x="640" y="0" name="Anchor_3"/>
   <outline>
     <contour>
       <point x="886" y="0" type="line"/>
@@ -57,11 +55,11 @@
       <point x="-19" y="1276" type="line"/>
     </contour>
     <contour>
-      <point x="736" y="-356" type="line"/>
-      <point x="736" y="-356" type="line"/>
-      <point x="833" y="-271" type="line"/>
-      <point x="526" y="83" type="line"/>
-      <point x="428" y="-2" type="line"/>
+      <point x="803" y="-416" type="line"/>
+      <point x="803" y="-416" type="line"/>
+      <point x="900" y="-331" type="line"/>
+      <point x="593" y="23" type="line"/>
+      <point x="495" y="-62" type="line"/>
     </contour>
   </outline>
 </glyph>

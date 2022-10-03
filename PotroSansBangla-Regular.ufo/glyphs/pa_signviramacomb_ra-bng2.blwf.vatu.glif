@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pa_signviramacomb_ra-bng2.blwf.vatu" format="2">
-  <advance width="1214"/>
+  <advance width="1138"/>
   <anchor x="640" y="0" name="Anchor_3_ligComponent_0"/>
   <outline>
     <contour>
@@ -53,11 +53,11 @@
       <point x="907" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="1226" y="1276" type="line"/>
-      <point x="1226" y="1276" type="line"/>
-      <point x="1226" y="1405" type="line"/>
-      <point x="957" y="1405" type="line"/>
-      <point x="957" y="1276" type="line"/>
+      <point x="1186" y="1276" type="line"/>
+      <point x="1186" y="1276" type="line"/>
+      <point x="1186" y="1405" type="line"/>
+      <point x="917" y="1405" type="line"/>
+      <point x="917" y="1276" type="line"/>
     </contour>
     <contour>
       <point x="907" y="49" type="curve"/>

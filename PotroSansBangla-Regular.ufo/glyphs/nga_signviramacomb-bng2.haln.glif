@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nga_signviramacomb-bng2.haln" format="2">
   <advance width="1210"/>
-  <anchor x="1074" y="15" name="Anchor_1"/>
-  <anchor x="640" y="0" name="Anchor_3"/>
   <outline>
     <contour>
       <point x="730" y="69" type="curve"/>
@@ -118,11 +116,11 @@
       <point x="848" y="1121" type="curve"/>
     </contour>
     <contour>
-      <point x="636" y="-356" type="line"/>
-      <point x="636" y="-356" type="line"/>
-      <point x="733" y="-271" type="line"/>
-      <point x="426" y="83" type="line"/>
-      <point x="328" y="-2" type="line"/>
+      <point x="833" y="-436" type="line"/>
+      <point x="833" y="-436" type="line"/>
+      <point x="930" y="-351" type="line"/>
+      <point x="623" y="3" type="line"/>
+      <point x="525" y="-82" type="line"/>
     </contour>
   </outline>
 </glyph>

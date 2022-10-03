@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="na_signviramacomb-bng2.half_uni099F.pres" format="2">
   <advance width="1489"/>
-  <anchor x="905" y="77" name="Anchor_1"/>
+  <anchor x="1014" y="19" name="Anchor_1"/>
   <anchor x="1230" y="175" name="Anchor_3"/>
   <anchor x="708" y="1463" name="Anchor_up"/>
   <anchor x="1162" y="1508" name="Anchor_Up_ex"/>
@@ -150,8 +150,8 @@
       <point x="648" y="1276" type="line"/>
       <point x="648" y="1276" type="line"/>
       <point x="648" y="1405" type="line"/>
-      <point x="-1" y="1405" type="line"/>
-      <point x="-1" y="1276" type="line"/>
+      <point x="-21" y="1405" type="line"/>
+      <point x="-21" y="1276" type="line"/>
     </contour>
   </outline>
 </glyph>

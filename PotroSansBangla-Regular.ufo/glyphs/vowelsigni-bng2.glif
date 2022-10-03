@@ -2,8 +2,8 @@
 <glyph name="vowelsigni-bng2" format="2">
   <advance width="389"/>
   <unicode hex="09BF"/>
-  <anchor x="913" y="1453" name="Anchor_1"/>
-  <anchor x="1346" y="1508" name="Anchor_Up_ex"/>
+  <anchor x="1046" y="1508" name="Anchor_Up_ex"/>
+  <anchor x="907" y="1426" name="Anchor_1"/>
   <outline>
     <contour>
       <point x="408" y="1276" type="line"/>

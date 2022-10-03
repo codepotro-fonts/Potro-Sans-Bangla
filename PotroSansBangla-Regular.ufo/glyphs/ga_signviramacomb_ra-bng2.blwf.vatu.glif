@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ga_signviramacomb_ra-bng2.blwf.vatu" format="2">
   <advance width="1167"/>
+  <anchor x="1113" y="67" name="Anchor_1"/>
   <outline>
     <contour>
       <point x="1046" y="0" type="line"/>

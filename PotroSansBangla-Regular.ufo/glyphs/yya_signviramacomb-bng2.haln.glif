@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yya_signviramacomb-bng2.haln" format="2">
   <advance width="979"/>
-  <anchor x="812" y="0" name="Anchor_1"/>
-  <anchor x="820" y="228" name="Anchor_3"/>
   <outline>
     <contour>
       <point x="769" y="140" type="curve"/>
@@ -60,11 +58,11 @@
       <point x="505" y="85"/>
     </contour>
     <contour>
-      <point x="782" y="-356" type="line"/>
-      <point x="782" y="-356" type="line"/>
-      <point x="879" y="-271" type="line"/>
-      <point x="572" y="83" type="line"/>
-      <point x="474" y="-2" type="line"/>
+      <point x="833" y="-436" type="line"/>
+      <point x="833" y="-436" type="line"/>
+      <point x="930" y="-351" type="line"/>
+      <point x="623" y="3" type="line"/>
+      <point x="525" y="-82" type="line"/>
     </contour>
   </outline>
 </glyph>

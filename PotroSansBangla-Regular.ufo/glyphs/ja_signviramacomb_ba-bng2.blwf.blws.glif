@@ -108,8 +108,8 @@
       <point x="1563" y="1276" type="line"/>
       <point x="1563" y="1276" type="line"/>
       <point x="1563" y="1405" type="line"/>
-      <point x="-13" y="1405" type="line"/>
-      <point x="-13" y="1276" type="line"/>
+      <point x="-33" y="1405" type="line"/>
+      <point x="-33" y="1276" type="line"/>
     </contour>
     <contour>
       <point x="1214" y="-186" type="curve"/>

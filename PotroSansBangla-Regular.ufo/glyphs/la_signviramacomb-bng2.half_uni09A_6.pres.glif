@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="la_signviramacomb-bng2.half_uni09A6.pres" format="2">
-  <advance width="1718"/>
+  <advance width="1690"/>
   <anchor x="1666" y="69" name="Anchor_1"/>
   <anchor x="1560" y="30" name="Anchor_3"/>
   <anchor x="708" y="1463" name="Anchor_up"/>
@@ -94,11 +94,11 @@
       <point x="1388" y="148"/>
     </contour>
     <contour>
-      <point x="1737" y="1276" type="line"/>
-      <point x="1737" y="1276" type="line"/>
-      <point x="1737" y="1405" type="line"/>
-      <point x="1" y="1405" type="line"/>
-      <point x="1" y="1276" type="line"/>
+      <point x="1728" y="1276" type="line"/>
+      <point x="1728" y="1276" type="line"/>
+      <point x="1728" y="1405" type="line"/>
+      <point x="-29" y="1405" type="line"/>
+      <point x="-29" y="1276" type="line"/>
     </contour>
   </outline>
 </glyph>

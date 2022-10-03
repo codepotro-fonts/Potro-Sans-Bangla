@@ -2,7 +2,7 @@
 <glyph name="ttha-bng2" format="2">
   <advance width="1048"/>
   <unicode hex="09A0"/>
-  <anchor x="824" y="15" name="Anchor_1"/>
+  <anchor x="704" y="15" name="Anchor_1"/>
   <anchor x="640" y="0" name="Anchor_3"/>
   <anchor x="708" y="1463" name="Anchor_up"/>
   <outline>

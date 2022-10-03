@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dda_signviramacomb-bng2.haln" format="2">
   <advance width="1225"/>
-  <anchor x="889" y="23" name="Anchor_1"/>
-  <anchor x="960" y="56" name="Anchor_3"/>
   <outline>
     <contour>
       <point x="701" y="78" type="curve"/>
@@ -66,11 +64,11 @@
       <point x="-26" y="1276" type="line"/>
     </contour>
     <contour>
-      <point x="836" y="-456" type="line"/>
-      <point x="836" y="-456" type="line"/>
-      <point x="933" y="-371" type="line"/>
-      <point x="626" y="-17" type="line"/>
-      <point x="528" y="-102" type="line"/>
+      <point x="733" y="-436" type="line"/>
+      <point x="733" y="-436" type="line"/>
+      <point x="830" y="-351" type="line"/>
+      <point x="523" y="3" type="line"/>
+      <point x="425" y="-82" type="line"/>
     </contour>
   </outline>
 </glyph>

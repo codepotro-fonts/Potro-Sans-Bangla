@@ -97,8 +97,8 @@
       <point x="1212" y="1276" type="line"/>
       <point x="1212" y="1276" type="line"/>
       <point x="1212" y="1405" type="line"/>
-      <point x="-16" y="1405" type="line"/>
-      <point x="-16" y="1276" type="line"/>
+      <point x="-26" y="1405" type="line"/>
+      <point x="-26" y="1276" type="line"/>
     </contour>
   </outline>
 </glyph>

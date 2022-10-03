@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="da-bng2" format="2">
-  <advance width="1041"/>
+  <advance width="1075"/>
   <unicode hex="09A6"/>
-  <anchor x="897" y="30" name="Anchor_1"/>
+  <anchor x="990" y="77" name="Anchor_1"/>
   <anchor x="916" y="108" name="Anchor_3"/>
   <anchor x="708" y="1463" name="Anchor_up"/>
   <outline>
@@ -43,9 +43,9 @@
       <point x="791" y="148"/>
     </contour>
     <contour>
-      <point x="1059" y="1276" type="line"/>
-      <point x="1059" y="1276" type="line"/>
-      <point x="1059" y="1405" type="line"/>
+      <point x="1109" y="1276" type="line"/>
+      <point x="1109" y="1276" type="line"/>
+      <point x="1109" y="1405" type="line"/>
       <point x="-22" y="1405" type="line"/>
       <point x="-22" y="1276" type="line"/>
     </contour>

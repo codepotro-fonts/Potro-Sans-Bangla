@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="na-bng2" format="2">
-  <advance width="984"/>
+  <advance width="1005"/>
   <unicode hex="09A8"/>
   <anchor x="943" y="7" name="Anchor_1"/>
   <anchor x="888" y="208" name="Anchor_3"/>
@@ -43,9 +43,9 @@
       <point x="101" y="454"/>
     </contour>
     <contour>
-      <point x="1003" y="1276" type="line"/>
-      <point x="1003" y="1276" type="line"/>
-      <point x="1003" y="1405" type="line"/>
+      <point x="1023" y="1276" type="line"/>
+      <point x="1023" y="1276" type="line"/>
+      <point x="1023" y="1405" type="line"/>
       <point x="-34" y="1405" type="line"/>
       <point x="-34" y="1276" type="line"/>
     </contour>

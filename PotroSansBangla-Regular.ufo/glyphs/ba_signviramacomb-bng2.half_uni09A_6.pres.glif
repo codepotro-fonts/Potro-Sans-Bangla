@@ -42,9 +42,9 @@
       <point x="1180" y="148"/>
     </contour>
     <contour>
-      <point x="1480" y="1275" type="line"/>
-      <point x="1480" y="1275" type="line"/>
-      <point x="1480" y="1405" type="line"/>
+      <point x="1525" y="1275" type="line"/>
+      <point x="1525" y="1275" type="line"/>
+      <point x="1525" y="1405" type="line"/>
       <point x="-14" y="1405" type="line"/>
       <point x="-14" y="1275" type="line"/>
     </contour>

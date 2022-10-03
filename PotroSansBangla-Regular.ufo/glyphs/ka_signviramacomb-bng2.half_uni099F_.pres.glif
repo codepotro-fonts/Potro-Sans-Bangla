@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ka_signviramacomb-bng2.half_uni099F.pres" format="2">
   <advance width="1192"/>
-  <anchor x="920" y="53" name="Anchor_1_ligComponent_0"/>
+  <anchor x="667" y="-81" name="Anchor_1_ligComponent_0"/>
   <anchor x="684" y="-132" name="Anchor_3_ligComponent_0"/>
   <anchor x="708" y="1463" name="Anchor_up_ligComponent_0"/>
-  <anchor x="700" y="1508" name="Anchor_Up_ex_ligComponent_0"/>
+  <anchor x="746" y="1508" name="Anchor_Up_ex_ligComponent_0"/>
   <outline>
     <contour>
       <point x="481" y="-20" type="curve"/>
